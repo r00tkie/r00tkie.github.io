@@ -32,7 +32,7 @@ It's <strong>d3adbef</strong> and this is my blog.
 
 I'm mostly interested in Offensive Security. This includes Red Teaming, Pentesting, AppSec and Cloud Security. 
 
-The existance of this blog is to publish infosec related posts, guides and CTF realted content.
+The existence of this blog is to publish infosec related posts, guides and CTF related content.
 Things I know, things I learn and things I found on the internet
 
-Not all posts here are my own research and many times articles are written using public knowledge. 
+Not all posts here are my own research, and many times, articles are written using public knowledge. 
