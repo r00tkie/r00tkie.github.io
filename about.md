@@ -26,8 +26,13 @@ titles:
 key: page-about
 ---
 
-Hi, good day everyone. Just another so called "security guy" hosting cyber security related blog. He working at a local cyber security company doing digital forensics, malware analysis, malware research and reverse engineering stuff.
+Hi There, 
 
-His interested mainly in reverse code engineering and analysis, malware research and development, CTF, digital forensics, threat intelligence and works on them for fun, research, and work.
+It's d3adbef and this is my blog. 
 
-The aim of this personal blog is for research, education and note purpose focusly on malware analysis and reverse code engineering. Anything posted in his blog is his own stuff and is not affiliated with any company that he's working for.
+I'm mostly interested in Offensive Security. This includes Red Teaming, Pentesting, AppSec and Cloud Security. 
+
+The existance of this blog is to publish infosec related posts, guides and CTF realted content.
+Things I know, things I learn and things I found on the internet
+
+Not all posts here are my own research and many times articles are written using public knowledge. 
