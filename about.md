@@ -28,7 +28,7 @@ key: page-about
 
 Hi There, 
 
-It's <strong>d3adbef</strong> and this is my blog. 
+It's <strong>d3adbeef</strong> and this is my blog. 
 
 I'm mostly interested in Offensive Security. This includes Red Teaming, Pentesting, AppSec and Cloud Security. 
 
