@@ -37,7 +37,7 @@ author:
   type      : # "person" (default), "organization"
   name      : d3adbeef
   url       :
-  avatar    : https://i.ibb.co/MPd6qvy/dirtycow-removebg-preview.png # path or url of avatar image (square)
+  avatar    : "/profile.png" # path or url of avatar image (square)
   bio       : Researcher | Engineer | Tinkerer 
   email     :
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name

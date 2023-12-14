@@ -3,12 +3,12 @@
     "short_name": "TeXt Theme",
     "icons": [
         {
-            "src": "logo.png",
+            "src": "/logo.png",
             "sizes": "240x240",
             "type": "image/png"
         },
         {
-            "src": "logo.png",
+            "src": "/logo.png",
             "sizes": "240x240",
             "type": "image/png"
         }
