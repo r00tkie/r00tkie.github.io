@@ -26,13 +26,14 @@ titles:
 key: page-about
 ---
 
-Hi There, 
+Hi there and welcome folks, 
 
-It's <strong>r00tkie</strong> and this is my blog. 
+It's <strong>hideandsec</strong> and this is my blogpost, where I keep all my ideas and stuff. 
 
 I'm mostly interested in Offensive Security. This includes Red Teaming, Pentesting, AppSec and Cloud Security. 
 
 The existence of this blog is to publish infosec related posts, guides and CTF related content.
 Things I know, things I learn and things I found on the internet
 
-Not all posts here are my own research, and many times, articles are written using public knowledge. 
+⚠️ not all posts here are my own research, and many times, articles are written using public knowledge. 
+⚠️ between seriousness, expect sarcasm and humor
