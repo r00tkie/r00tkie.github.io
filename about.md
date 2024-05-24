@@ -35,5 +35,6 @@ I'm mostly interested in Offensive Security. This includes Red Teaming, Pentesti
 The existence of this blog is to publish infosec related posts, guides and CTF related content.
 Things I know, things I learn and things I found on the internet
 
-⚠️ not all posts here are my own research, and many times, articles are written using public knowledge. 
+⚠️ not all posts here are my own research, and many times, articles are written using public knowledge.
+
 ⚠️ between seriousness, expect sarcasm and humor
