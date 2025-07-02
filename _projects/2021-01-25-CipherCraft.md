@@ -3,7 +3,7 @@ title: CipherCraft
 date: 2023-01-26 08:01:35 +0300
 subtitle: Payload Obfuscation
 description: Simple, yet effective payload obfuscation
-image: '/images/projects/CipherCraft/images.jpg'
+image: '/images/projects/CipherCraft/image.jpg'
 ---
 
 <!-- <div class="gallery-box">
