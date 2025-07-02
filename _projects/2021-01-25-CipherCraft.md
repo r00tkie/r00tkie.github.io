@@ -19,7 +19,7 @@ image: '/images/projects/CipherCraft/image.jpg'
   <h2 class="block-title line-top">Simple, yet effective payload obfuscation</h2>
 </div>
 
-Are your payloads getting flagged before they even leave the gate? Meet CipherCraft – a lightweight but powerful obfuscation tool built to help red teamers and offensive security professionals fly under the radar. The tool is based on Hells Gate project
+Are your payloads getting flagged before they even leave the gate? Meet CipherCraft – a lightweight but powerful obfuscation tool built to help red teamers and offensive security professionals fly under the radar. The tool is inspired by the ![Hells Gate project](https://github.com/am0nsec/HellsGate)
 
 CipherCraft was designed with one goal: bypass modern AV/EDR with ease. And it delivers.
 
