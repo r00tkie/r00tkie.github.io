@@ -38,7 +38,7 @@ And fort Panda Adaptive Defense 360
 <div style="position:relative; width:100%; height:0px; padding-bottom:40.906%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://youtu.be/_8X1BaZeeVA" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
 
 
-CipherCraft takes your raw payloads and transforms them using a series of custom obfuscation techniques that break static and behavioral detection. Think of it as a cloak of invisibility for your shellcode.
+CipherCraft takes your raw payloads and transforms them using a series of custom obfuscation techniques that break static and behavioral detection. It will also provide a simple loader to use. Think of it as a cloak of invisibility for your shellcode.
 
 
 <!-- <div class="block-header inner-sm" style="margin-bottom: 1.5em">
