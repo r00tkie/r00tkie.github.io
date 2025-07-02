@@ -19,18 +19,17 @@ image: '/images/projects/hacktivity-2020/images.png'
   <h2 class="block-title line-top">Infrastructure Security Automation</h2>
 </div>
 
-I'll never forget the first time I attended a hacking conference, it was at Hactivity back in 2012 and I still remember Vivek Ramachandran talking about cracking WPA and WPA2, and Joe McCray talking about Web Application Security. 
-Back then those guys where my heros without cape.
+I’ll never forget the first time I attended a hacking conference, it was at Hactivity back in 2012 and I still remember Vivek Ramachandran talking about cracking WPA and WPA2, and Joe McCray talking about Web Application Security. 
+Back then, those guys were my heroes without capes.
 
-Anyways, that day I thought...💭 one day I would like to speak here. 
-<br>Few years later in 2020 when the pandemic hit, I submitted my first CFP at guess where....at hacktivity of course. 
+Anyways, that day I thought…💭 one day I would like to speak here.
+<br>A few years later, in 2020, when the pandemic hit, I submitted my first CFP at guess where….hacktivity, of course.
 
-The topic was Infrastracture Security Automation with Ansible. An, as I call, `anorthodox` way to use ansible (at least it was back then). 
-The presentation is about how Ansible can be used to run different Infrstracture security checks and it was part of a big project I was working for ING, my employer at that time. 
+The topic was Infrastructure Security Automation with Ansible. An, as I call, `anorthodox` way to use Ansible (at least it was back then). The presentation is about how Ansible can be used to run different Infrastructure security checks, and it was part of a large project I was working on for ING, my employer at the time.
 
-In the presentation there is an ansible P0C role to demostrate some use cases. Of course, I continued working on that project for quite long and at some point it was running in CI/CD, then the project was adapted globally within ING and as far as I know it stills runs there. 
+In the presentation, there is an Ansible POC role that demonstrates various use cases. Of course, I continued working on that project for quite a long time, and at some point it was running in CI/CD, then the project was adapted globally within ING, and as far as I know, it still runs there.
 
-So, if you are interested in watching the presentation and maybe dig deeper yourselve, you can find everything in [this repo!](https://github.com/r00tkie/Hacktivity_2020)
+If you're interested in watching the presentation and exploring the topic further, you can find everything in [this repository!](https://github.com/r00tkie/Hacktivity_2020)
 
 <!-- <div class="block-header inner-sm" style="margin-bottom: 1.5em">
   <h2 class="block-title line-top">Technology</h2>
