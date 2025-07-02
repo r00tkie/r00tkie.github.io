@@ -32,8 +32,6 @@ You can see P0C videos for Acronis Cyber Protect.
 
 <div style="position:relative; width:100%; height:0px; padding-bottom:40.906%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://www.youtube.com/embed/D1Mr2FXGqlA?si=jUzxUb58kYUwFu7X" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div><br>
 
-
-
 And fort Panda Adaptive Defense 360
 
 <div style="position:relative; width:100%; height:0px; padding-bottom:40.906%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://www.youtube.com/embed/_8X1BaZeeVA?si=yXuT4x-3yWaxRJTG" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div><br>
