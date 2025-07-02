@@ -19,18 +19,21 @@ image: '/images/projects/CipherCraft/image.jpg'
   <h2 class="block-title line-top">Simple, yet effective payload obfuscation</h2>
 </div>
 
-I'll never forget the first time I attended a hacking conference, it was at Hactivity back in 2012 and I still remember Vivek Ramachandran talking about cracking WPA and WPA2, and Joe McCray talking about Web Application Security. 
-Back then those guys where my heros without cape.
+Are your payloads getting flagged before they even leave the gate? Meet CipherCraft – a lightweight but powerful obfuscation tool built to help red teamers and offensive security professionals fly under the radar. The tool is based on Hells Gate project
 
-Anyways, that day I thought...💭 one day I would like to speak here. 
-<br>Few years later in 2020 when the pandemic hit, I submitted my first CFP at guess where....at hacktivity of course. 
+CipherCraft was designed with one goal: bypass modern AV/EDR with ease. And it delivers.
 
-The topic was Infrastracture Security Automation with Ansible. An, as I call, `anorthodox` way to use ansible (at least it was back then). 
-The presentation is about how Ansible can be used to run different Infrstracture security checks and it was part of a big project I was working for ING, my employer at that time. 
+✅ Successfully Tested Against:
+Windows Defender
+Panda Adaptive Defense 360
+Acronis Cyber Protect
 
-In the presentation there is an ansible P0C role to demostrate some use cases. Of course, I continued working on that project for quite long and at some point it was running in CI/CD, then the project was adapted globally within ING and as far as I know it stills runs there. 
+You can see P0C videos for Panda Adaptive Defense 360 and Acronis Cyber Protect. 
 
-So, if you are interested in watching the presentation and maybe dig deeper yourselve, you can find everything in [this repo!](https://github.com/r00tkie/Hacktivity_2020)
+<div style="position:relative; width:100%; height:0px; padding-bottom:40.906%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/ehj4r9?" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+CipherCraft takes your raw payloads and transforms them using a series of custom obfuscation techniques that break static and behavioral detection. Think of it as a cloak of invisibility for your shellcode.
+
 
 <!-- <div class="block-header inner-sm" style="margin-bottom: 1.5em">
   <h2 class="block-title line-top">Technology</h2>
