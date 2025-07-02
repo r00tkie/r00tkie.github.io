@@ -19,7 +19,7 @@ image: '/images/projects/CipherCraft/image.jpg'
   <h2 class="block-title line-top">Simple, yet effective payload obfuscation</h2>
 </div>
 
-Are your payloads getting flagged before they even leave the gate? Meet CipherCraft, a lightweight but powerful obfuscation tool built to help red teamers and offensive security professionals fly under the radar. The tool is inspired by the [Hells Gate project](https://github.com/am0nsec/HellsGate){:target="_blank"}
+Are your payloads getting flagged before they even leave the gate? Meet CipherCraft, a lightweight but powerful obfuscation tool built to help red teamers and offensive security professionals fly under the radar. The tool is inspired by the [Hells Gate project](https://github.com/am0nsec/HellsGate)
 
 CipherCraft was designed with one goal: bypass modern AV/EDR with ease. And it delivers.
 
@@ -30,11 +30,13 @@ CipherCraft was designed with one goal: bypass modern AV/EDR with ease. And it d
 
 You can see P0C videos for Acronis Cyber Protect. 
 
-<div style="position:relative; width:100%; height:0px; padding-bottom:40.906%"><iframe width="560" height="315" src="https://www.youtube.com/embed/D1Mr2FXGqlA?si=jUzxUb58kYUwFu7X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div><br>
+<div style="position:relative; width:100%; height:0px; padding-bottom:40.906%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://www.youtube.com/embed/D1Mr2FXGqlA?si=jUzxUb58kYUwFu7X" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div><br>
+
+
 
 And fort Panda Adaptive Defense 360
 
-<div style="position:relative; width:100%; height:0px; padding-bottom:40.906%"><iframe width="560" height="315" src="https://www.youtube.com/embed/_8X1BaZeeVA?si=yXuT4x-3yWaxRJTG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div><br>
+<div style="position:relative; width:100%; height:0px; padding-bottom:40.906%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://www.youtube.com/embed/_8X1BaZeeVA?si=yXuT4x-3yWaxRJTG" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div><br>
 
 CipherCraft takes your raw payloads and transforms them using a series of custom obfuscation techniques that break static and behavioral detection. It will also provide a simple loader to use. Think of it as a cloak of invisibility for your shellcode.
 
