@@ -1,0 +1,155 @@
+#-------------------------------
+# Site Settings
+
+title: Pwntales
+tab__title: Pwntales
+meta__title: Pwntales - Security Engineer and Pentester
+logo: # You can add own logo. For example '/images/logo.png'.
+#description: Adam Morgan – Hire me to design and build your next website!
+
+menu__settings:
+  menu__items:
+    - title: 'Home'
+      url: '/'
+    - title: 'Blog'
+      url: '/blog/'
+    - title: 'Projects'
+      url: '/projects/'
+    - title: 'About'
+      url: '/about'
+    #- title: 'Contact'
+    #  url: '/contact'
+    # - title: 'Pages'
+    #   submenu:
+    #   - url: '/about'
+    #     title: 'About'
+    #   - url: '/elements'
+    #     title: 'Elements'
+
+# Call to action button
+#cta__button__text: Book now!
+#cta__button_url: 'https://calendly.com/atom-morgan'
+# cta__button__text: 'About'
+# cta__button_url: '/about'
+
+# Add global cover image (This field adds a background to the top and bottom of the site.)
+cover__image: '/images/cover-image.jpg'
+
+
+#-------------------------------
+# Author Settings
+
+author:
+  name: r00tkie
+  title: Hello and welcome to Pwntales!
+  bio: "
+  Welcome to my blog, I’m r00tkie! 
+<br>Here, I share my knowledge, document my learning, and showcase intriguing finds from the internet.
+While I mostly like to write about Active Directory, Windows Exploitation and Cloud, you may find me diving deep to other topics as well.
+<br>Thanks for dropping by and I hope you enjoy my content!
+
+  "
+#   bio: "
+#     I'm r00tkie, a Security Consultant with over a decade of experience around Application Security, Penetration Testing and Red Teaming.
+#     <br>I love hacking, I'm a big supporter of continuous learning and I'm always looking for new challenges.
+#     <br>The last few years I'm working as a contractor for a few companies and I'm also a freelance consultant.
+# <br><br>
+#     Here I'm going to share my thoughts, my projects and my experiences.
+     
+#     "
+  image: '/images/cyber-me.jpg'
+  avatar: '/images/cyber-me.jpg'
+  button__text: See my work
+
+
+#-------------------------------
+# Projects Settings
+
+projects__settings:
+  projects__title: My <span class="text-span">Projects</span> # Add a 'text-span' class to highlight text.
+  projects__description: "
+    Here is a list of things I'm currently working on and things I've worked on in the past.
+    "
+
+
+#-------------------------------
+# Testimonials Section
+
+# testimonial__title: My Happy <span class="text-span">Clients</span> # Add a 'text-span' class to highlight text.
+
+# testimonial-items:
+#   - name: "Levi Robertson"
+#     image: "/images/testimonial-levi.jpeg"
+#     designation : "Host of JAMstack Phoenix"
+#     content : "The Angular Tutorial along with Adam's advice has completely changed my career..."
+
+#   - name: "Kaeside Iwuagwu"
+#     image: "/images/testimonial-kaeside.jpeg"
+#     designation : "Implementation Manager at WebMD"
+#     content : "Adam has a knack for breaking down complex topics and keeps learning Angular fun."
+
+#   - name: "Matthew Knowles"
+#     image: "/images/testimonial-matthew.jpeg"
+#     designation : "Software Engineer"
+#     content : "If you are using Angular in a professional setting I can not recommend The Angular Tutorial highly enough."
+
+  # - name: "Julie Arnold"
+  #   image: "/images/client-4.jpg"
+  #   designation : "Full stack developer"
+  #   content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
+
+
+#-------------------------------
+# Blog Section
+
+blog__settings:
+  blog__title: Recent <span class="text-span">Blog</span> Posts # Add a 'text-span' class to highlight text.
+  blog__description:
+
+
+#-------------------------------
+# Contact Settings
+
+# contact__settings:
+#   contact__email: pwntales@gmail.com # Add your email for contact form
+#   contact__title: <span class="text-span">Get</span> in touch # Add a title to your form
+#   contact__description: Need some work? I'm your guy. # Add a description to your form
+
+# NOTE
+# Avenco comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
+
+
+#-------------------------------
+# Newsletter Settings
+# mailchimp__settings:
+#   mailchimp__title: <span class="text-span">Join</span> my mailing list # Add your title
+#   mailchimp__text: " 'Get inspiration, updates and', 'cool stuff about web development!' " # Add descriptions to the form by wrapping the text in single quotes. If you want to use more than one sentence, be sure to separate them with a comma.
+#   mailchimp__identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+#   mailchimp__button__text: Subscribe # Add your button text
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: # add your shortname for Disqus Comment. For example anvodstudio-demo
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: G-06TH3NRH32 # Add your identifier. For example UA-99631805-1.
+
+
+#-------------------------------
+# Footer Settings
+# Social Links
+# Example of adding a new link to the footer - {icon: "ion-logo-facebook", link: "https://facebook.com"}
+# Other icons can be found at https://ionicons.com/v4/
+social:
+- {icon: "ion-logo-twitter", link: "https://twitter.com/r00tkie"}
+- {icon: "ion-logo-github", link: "https://github.com/r00tkie"}
+#- {icon: "images/Bluesky-logo.jpg", link: "https://bsky.app/profile/r00tkie.bsky.social"}
+- {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/spyrosmanglis/"}
+#- {icon: "ion-logo-instagram", link: "https://instagram.com/adamjmorgan"}
+# - {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
+# - {icon: "ion-logo-codepen", link: "https://codepen.io"}
+# - {icon: "ion-logo-vimeo", link: "https://vimeo.com"}
+# - {icon: "ion-logo-youtube", link: "https://youtube.com"}

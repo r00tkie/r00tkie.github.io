@@ -1,44 +1,63 @@
-{%- if include.theme == 'dark' -%}
-  <header class="header header--dark" {%- if include.background -%} style="background: {{ include.background }};" {%- endif -%}>
-{%- elsif include.theme == 'light' -%}
-  <header class="header header--light" {%- if include.background -%} style="background: {{ include.background }};" {%- endif -%}>
-{%- else -%}
-  <header class="header" {%- if include.background -%} style="background: {{ include.background }};" {%- endif -%}>
-{%- endif -%}
-    <div class="main">
-      <div class="header__title">
-        <div class="header__brand">
-          {%- include svg/logo.svg -%}
-          {%- assign _paths_root = site.paths.root | default: site.data.variables.default.paths.root  -%}
-          {%- include snippets/get-nav-url.html path=_paths_root -%}
-          {%- if site.title -%}
-            <a title="{%- if site.description -%}{{ site.description }}{%- endif -%}" href="{{ __return }}">{{ site.title }}</a>
-          {%- endif -%}
+<!-- begin header -->
+<header class="header">
+  <div class="container">
+    <div class="row">
+      <div class="header__inner">
+
+        <div class="logo">
+          <a class="logo__link" href="{{ site.baseurl }}/">
+          {%if site.data.settings.logo %}
+            <img class="logo__image" src="{{ site.baseurl }}{{ site.data.settings.logo }}" alt="{{ site.title }}">
+          {% else %}
+            {{ site.data.settings.title }}
+          {% endif %}
+          </a>
         </div>
-        {%- if site.search.provider -%}
-          <button class="button button--secondary button--circle search-button js-search-toggle"><i class="fas fa-search"></i></button>
-        {%- endif -%}
+
+        <nav class="main-nav">
+          <div class="main-nav__box">
+
+            <div class="nav__icon-close">
+              <i class="ion ion-md-close"></i>
+            </div>
+
+            <div class="nav__title">Menu</div>
+
+            <ul class="nav__list list-reset">
+
+            {% for item in site.data.settings.menu__settings.menu__items %}
+              {% if item.submenu %}
+              <li class="nav__item dropdown">
+                <span class="nav__link dropdown-toggle">{{ item.title }} <i class="ion ion-ios-arrow-down arrow-down"></i></span>
+                <div class="dropdown-menu">
+                  {% for submenu-item in item.submenu %}
+                    <a href="{{ submenu-item.url }}" class="nav__link{% if page.url == submenu-item.url %} active-link{% endif %}">{{submenu-item.title}}</a>
+                  {% endfor %}
+                </div>
+              </li>
+
+              {% else %}
+              <li class="nav__item">
+                <a href="{{ item.url | relative_url }}" class="nav__link{% if page.url == item.url %} active-link{% endif %}">{{ item.title }}</a>
+              </li>
+              {% endif %}
+            {% endfor %}
+
+            <!-- Commented out the CTA button for now -->
+            <!-- <li class="nav__item">
+              <a href="{{ site.data.settings.cta__button_url }}" class="nav__link cta-button button button--small">{{ site.data.settings.cta__button__text }}</a>
+            </li> -->
+
+            </ul>
+          </div>
+        </nav>
+
+        <div class="nav-button">
+          <i class="nav__icon nav__icon-menu ion ion-md-menu"></i>
+        </div>
+
       </div>
-      {%- if site.data.navigation.header -%}
-      <nav class="navigation">
-        <ul>
-          {%- for _item in site.data.navigation.header -%}
-            {%- include snippets/get-nav-url.html path=_item.url -%}
-            {%- assign _nav_url = __return -%}
-            {%- include snippets/get-nav-url.html path=page.url -%}
-            {%- assign _page_url = __return -%}
-            {%- include snippets/get-string-from-locale-config.html locale=_item.titles -%}
-            {%- if _nav_url == _page_url or page.nav_key and _item.key and page.nav_key == _item.key -%}
-              <li class="navigation__item navigation__item--active"><a href="{{ _nav_url }}">{%- if _item.title -%}{{ _item.title }}{%- else -%}{{ __return }}{%- endif -%}</a></li>
-            {%- else -%}
-              <li class="navigation__item"><a href="{{ _nav_url }}">{%- if _item.title -%}{{ _item.title }}{%- else -%}{{ __return }}{%- endif -%}</a></li>
-            {%- endif -%}
-          {%- endfor -%}
-          {%- if site.search.provider -%}
-            <li><button class="button button--secondary button--circle search-button js-search-toggle"><i class="fas fa-search"></i></button></li>
-          {%- endif -%}
-        </ul>
-      </nav>
-      {%- endif -%}
     </div>
-  </header>
+  </div>
+</header>
+<!-- end header -->
