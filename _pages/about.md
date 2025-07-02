@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Pwntales - About
 description: Some extra details about myself.
 image: '/images/russian_coders.jpg'
 ---
