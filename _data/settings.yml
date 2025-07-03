@@ -16,7 +16,7 @@ menu__settings:
     - title: 'Projects'
       url: '/projects/'
     - title: 'About'
-      url: '/about'
+      url: '/about/'
     #- title: 'Contact'
     #  url: '/contact'
     # - title: 'Pages'
@@ -57,8 +57,8 @@ While I mostly like to write about Active Directory, Windows Exploitation and Cl
 #     Here I'm going to share my thoughts, my projects and my experiences.
      
 #     "
-  image: '/images/cyber-me.jpg'
-  avatar: '/images/cyber-me.jpg'
+  image: '/images/me.jpg'
+  avatar: '/images/me.jpg'
   button__text: See my work
 
 
