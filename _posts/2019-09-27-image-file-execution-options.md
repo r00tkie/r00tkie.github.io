@@ -7,8 +7,8 @@ excerpt: >-
   Image File Execution Options
 description: >-
   Image File Execution Options
-image: '/images/posts/ifeo/5.jpg'
-thumb_image: '/images/posts/ifeo/5.jpg'
+image: '/images/posts/ifeo/head.png'
+thumb_image: '/images/posts/ifeo/head.png'
 style: code
 ---
 
