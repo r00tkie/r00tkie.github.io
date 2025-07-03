@@ -16,7 +16,9 @@ style: code
 
 The Windows operating system relies on various files and databases to securely manage critical system information and user accounts. The NTDS, DIT, System Hive, and the SAM file are three essential components that stand out. In this post, we will explore these components and why they are crucial for the functioning and security of Windows systems.
 
-* NTDS.DIT (Active Directory Database): NTDS.DIT, short for “NT Directory Services Directory Information Tree,” is the heart of the Windows Active Directory service. Active Directory is a centralized database that stores information about network resources and user accounts in a domain environment. NTDS.DIT contains data about users, groups, computers, and other objects within the domain. It is pivotal in authentication, authorization, and directory service operations in Windows environments.
+NTDS.DIT (Active Directory Database): NTDS.DIT, short for “NT Directory Services Directory Information Tree,” is the heart of the Windows Active Directory service. 
+Active Directory is a centralized database that stores information about network resources and user accounts in a domain environment. NTDS.DIT contains data about users, groups, computers, and other objects within the domain. 
+It is pivotal in authentication, authorization, and directory service operations in Windows environments.
 
 #### Key Points about NTDS.DIT:
 
