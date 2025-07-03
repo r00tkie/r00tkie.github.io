@@ -4,9 +4,9 @@ date: '2019-03-21'
 layout: post
 tag: [Credential Theft, AD, Kerberos]
 excerpt: >-
-  AS-REP Roasting A Recipe for Kerberos Credential Theft
+  A recipe for Kerberos Credential Theft
 description: >-
-  AS-REP Roasting A Recipe for Kerberos Credential Theft
+  A recipe for Kerberos Credential Theft
 image: '/images/posts/as-rep/kerberos-authentication.png'
 thumb_image: '/images/posts/as-rep/kerberos-authentication.png'
 style: code
