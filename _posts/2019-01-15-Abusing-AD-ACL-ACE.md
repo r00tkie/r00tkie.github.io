@@ -4,9 +4,9 @@ date: '2019-01-15'
 layout: post
 tag: [AD, Access Controls]
 excerpt: >-
-  Abusing Access Control List and Access Control Entries
+  ACE and ACL abuse
 description: >-
-  Abusing Access Control List and Access Control Entries
+  ACE and ACL abuse
 image: '/images/posts/abusing-ace/abusing-acl.png'
 thumb_image: '/images/posts/abusing-ace/abusing-acl.png'
 ---
