@@ -7,8 +7,9 @@ excerpt: >-
   ACE and ACL abuse
 description: >-
   ACE and ACL abuse
-image: '/images/posts/abusing-ace/abusing-acl.png'
-thumb_image: '/images/posts/abusing-ace/abusing-acl.png'
+image: '/images/posts/abusing-ace/acl.jpg'
+thumb_image: '/images/posts/abusing-ace/acl.jpg'
+style: code
 ---
 
 # Introduction

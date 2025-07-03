@@ -1,14 +1,14 @@
 ---
 title: 'IFEO'
-date: '2019-05-10'
+date: '2019-09-27'
 layout: post
 tag: [Exploitation, Windows]
 excerpt: >-
   Image File Execution Options
 description: >-
   Image File Execution Options
-image: '/images/posts/ifeo/head.png'
-thumb_image: '/images/posts/ifeo/head.png'
+image: '/images/posts/ifeo/ifeo.jpg'
+thumb_image: '/images/posts/ifeo/ifeo.jpg'
 style: code
 ---
 
