@@ -2,7 +2,7 @@
 title: 'The Windows Core Files'
 date: '2018-11-18'
 layout: post
-tag: [tutorial, Windows]
+tag: [Windows Security]
 excerpt: >-
   In this tutorial we'll discuss the windows core files and their importance.
 description: >-
