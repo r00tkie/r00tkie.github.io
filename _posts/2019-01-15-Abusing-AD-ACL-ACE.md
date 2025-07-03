@@ -4,9 +4,9 @@ date: '2019-01-15'
 layout: post
 tag: [AD, Access Controls]
 excerpt: >-
-  Abusing Windows Access Control List and Access Control Entries
+  Abusing Access Control List and Access Control Entries
 description: >-
-  Abusing Windows Access Control List and Access Control Entries
+  Abusing Access Control List and Access Control Entries
 image: '/images/posts/abusing-ace/abusing-acl.png'
 thumb_image: '/images/posts/abusing-ace/abusing-acl.png'
 ---

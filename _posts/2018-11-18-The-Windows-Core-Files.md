@@ -6,7 +6,7 @@ tag: [Windows Security]
 excerpt: >-
   In this tutorial we'll discuss the windows core files and their importance.
 description: >-
-  In this tutorial we'll discuss the windows core files and their importance.
+  The windows core files and their importance.
 image: '/images/posts/windows-core-files/windows-core-files.png'
 thumb_image: '/images/posts/windows-core-files/windows-core-files.png'
 style: code
