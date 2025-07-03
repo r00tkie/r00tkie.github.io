@@ -1,5 +1,5 @@
 ---
-title: 'Abusing Active Directory ACL-ACE'
+title: 'Abusing AD Access Controls'
 date: '2019-06-15'
 layout: post
 tag: [tutorial, AD]
@@ -192,23 +192,3 @@ Set-DomainUserPassword -Identity gpowrite.user -Verbose 
 ```
 
 ![](/images/posts/abusing-ace/forcechangepassword.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
