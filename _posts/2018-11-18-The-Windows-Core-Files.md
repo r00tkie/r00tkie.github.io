@@ -7,8 +7,8 @@ excerpt: >-
   In this tutorial we'll discuss the windows core files and their importance.
 description: >-
   In this tutorial we'll discuss the windows core files and their importance.
-image: '/images/reactive-forms/tutorial-cover.png'
-thumb_image: '/images/reactive-forms/tutorial-cover.png'
+image: '/images/posts/windows-core-files/windows-core-files.png'
+thumb_image: '/images/posts/windows-core-files/windows-core-files.png'
 style: code
 ---
 
