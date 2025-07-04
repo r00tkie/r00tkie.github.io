@@ -16,7 +16,7 @@ Here,in this blog I may rant about system insecurities (or mine 😆).
 
 If you'd like to get in touch feel free to send me an email at [pwntales@gmail.com](mailto:pwntales@gmail.com){:target="_blank"}. You can also follow me on <a href="https://twitter.com/r00tkie" target="_blank">Twitter</a> , <a href="https://github.com/r00tkie" target="_blank">Github</a> , <a href="https://bsky.app/profile/r00tkie.bsky.social" target="_blank"> Bluesky</a> or <a href="https://www.linkedin.com/in/spyrosmanglis/" target="_blank">Linkedin</a> but keep in mind that I'm not that active os social.
 
-PS: 94,3% of the images in this blog are AI generated, I'm not a humanoid 🤖
+PS: 94,3% of the images in this blog are 🤖 AI generated 
 
 <!-- <div class="gallery-box">
   <div class="gallery">

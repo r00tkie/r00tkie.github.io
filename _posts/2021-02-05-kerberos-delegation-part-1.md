@@ -2,7 +2,7 @@
 title: 'Delegation Attacks (PT1)'
 date: '2021-02-05'
 layout: post
-tag: [Delegation Theft, AD, Kerberos]
+tag: [Delegation, AD, Kerberos]
 excerpt: >-
   Kerberos delegation attacks and their impact
 description: >-
@@ -19,19 +19,19 @@ This advanced capability ensures that the service can only interact with specifi
 
 There are three types of Kerberos Delegation Attacks:
 
-### 1. Kerberos Constrained Delegation (KCD)**
+### 1. Kerberos Constrained Delegation (KCD)
 
 - **What it is**: KCD allows a service to impersonate a user to access resources on the user’s behalf. It’s a secure way to delegate user credentials.
 - **How it works**: When a user requests a service that requires delegation, the service sends a request to the Key Distribution Center (KDC) to obtain a service ticket. The KDC returns a service ticket that allows the service to impersonate the user.
 - **Security implications**: KCD can be a security risk if not properly configured, as it allows the service to access any resource that the user has access to. This can lead to unauthorized access to sensitive data.
 
-### 2. Kerberos Unconstrained Delegation**
+### 2. Kerberos Unconstrained Delegation
 
 - **What it is**: Unconstrained Delegation is an older form of delegation that allows a service to impersonate a user without any restrictions on the resources that can be accessed. It is like constrained delegation but without not contains
 - **How it works**: Similar to KCD, the service sends a request to the KDC to obtain a service ticket. However, the KDC returns a service ticket that allows the service to impersonate the user without any constraints on the resources that can be accessed.
 - **Security implications**: Unconstrained Delegation is considered less secure than KCD and RBCD, as it allows the service to access any resource that the user has access to. This can lead to unauthorized access to sensitive data.
 
-### 3. Resource-Based Constrained Delegation (RBCD)**
+### 3. Resource-Based Constrained Delegation (RBCD)
 
 - **What it is**: RBCD is a more secure form of delegation that allows a service to impersonate a user, but only for specific resources that have been explicitly granted permission to the service account.
 - **How it works**: When a user requests a service that requires delegation, the service sends a request to the KDC to obtain a service ticket. The KDC returns a service ticket that allows the service to impersonate the user, but only for specific resources that have been granted permission to the service account.
